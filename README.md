@@ -8,6 +8,8 @@ This repository contains important security information regarding CheatBreaker.
 ## Files and Cryptographic Signatures
 * Real CheatBreaker files are cryptographically signed and **timestamped**. This guarantees that the files you are running actually came from us.
 * When you run a legitimate CheatBreaker executable, you will see that the file is signed by CheatBreaker, LLC:
+
+
 ![Signed Executable](https://i.imgur.com/MrsHXHF.png)
 
 
