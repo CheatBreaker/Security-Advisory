@@ -25,7 +25,7 @@ This repository contains important security information regarding CheatBreaker.
 If a file claiming to be CheatBreaker does not have this cryptographic signature, you can absolutely, positively, **guarantee** that the file is not ours. CheatBreaker does not currently have any other codesigning certificates.
 
 ## Other Security Issues
-A security vulnerability in Windows' [ECC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) has been discovered ([CVE-2020-0601](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0601)). This makes it possible for an attacker to spoof an Authenticode signature. You can read the technical details on this exploit [here](https://media.defense.gov/2020/Jan/14/2002234275/-1/-1/0/CSA-WINDOWS-10-CRYPT-LIB-20190114.PDF). To protect yourself, please be sure to update to the latest version of Windows and that you have all of the latest security updates.
+A security vulnerability in Windows' [ECC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) validation has been discovered ([CVE-2020-0601](https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0601)). This makes it possible for an attacker to spoof an Authenticode signature. You can read the U.S. Government's assessment of this vulnerability [here](https://media.defense.gov/2020/Jan/14/2002234275/-1/-1/0/CSA-WINDOWS-10-CRYPT-LIB-20190114.PDF). To protect yourself, please be sure to update to the latest version of Windows and that you have all of the latest security updates.
 
 ## Social Media Accounts
 * The only Twitter accounts operated by us are: @CheatBreaker and @AskCheatBreaker.
